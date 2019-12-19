@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olcyapp", "olcyapp\olcyapp.csproj", "{E97745B2-6E77-400D-8572-BEFA20385906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E97745B2-6E77-400D-8572-BEFA20385906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97745B2-6E77-400D-8572-BEFA20385906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97745B2-6E77-400D-8572-BEFA20385906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97745B2-6E77-400D-8572-BEFA20385906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {563EC6BC-905E-47EF-8B1C-4C9F4143E1CF}
+	EndGlobalSection
+EndGlobal
